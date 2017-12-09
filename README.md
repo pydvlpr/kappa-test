@@ -3,7 +3,7 @@ My Go implementation of the kappa-test for cryptoanalysis
 
 The program is the result of a task in my studies.
 
-#Background
+# Background
 
 The kappa-test is also known as Friedman test, named by his inventor William Friedman.
 
