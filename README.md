@@ -18,7 +18,9 @@ go run kappa-test.go FILENAME
 # Testfiles
 
 testfile.txt: Short text about Hucklebarry Fin
+
 cesar.txt: text about Huck (german), usage of step 7
+
 vigenere.txt: text about Huck (german), key: Secret
 
 # Infos 
