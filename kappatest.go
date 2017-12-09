@@ -82,5 +82,12 @@ func main() {
 
 	fmt.Printf("\nIndex of coincidence: %1.4f\n\n", index)
 
+	var keylength float32
+
+	keylength = 0.0377 * float32(length) / (index*(float32(length)-1.0) - (0.0385 * float32(length)) + 0.0762)
+
+	fmt.Printf("Keylength is about %3.4f\n\n", keylength)
+
 	fmt.Println("done...")
+
 }
